@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stok_yonetimi_uygulaması", "stok_yonetimi_uygulaması\stok_yonetimi_uygulaması.csproj", "{BD4372AA-29E0-4799-B8D3-4F3F448F3C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4372AA-29E0-4799-B8D3-4F3F448F3C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4372AA-29E0-4799-B8D3-4F3F448F3C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4372AA-29E0-4799-B8D3-4F3F448F3C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4372AA-29E0-4799-B8D3-4F3F448F3C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C0F2B19-373E-4473-B58D-03D62DE54B10}
+	EndGlobalSection
+EndGlobal
