@@ -7,4 +7,4 @@ Bu proje Akif DORA tarafından hazırlanmıştır. Gönül rahatlığı ile kull
 
 **İLETİŞİM**
 > Benimle iletişim kurmak için linke tıklayabilirsiniz!<br>
-> https://linktr.ee/akifdora
+> https://akifdora.github.io
